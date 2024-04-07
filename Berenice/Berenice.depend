@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1687895078 source:c:\users\theki\desktop\berenice\main.c
+	"biblioteca.h"
+
+1687895284 c:\users\theki\desktop\berenice\biblioteca.h
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+
+1687895252 source:c:\users\theki\desktop\berenice\funcoes.c
+	"biblioteca.h"
+
